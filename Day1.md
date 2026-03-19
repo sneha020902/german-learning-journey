@@ -71,6 +71,7 @@ Write this (fill your info):
     Try without looking
 
 -> SMALL CORRECTIONS (IMPORTANT)
+
 1. Capital letters (VERY IMPORTANT in German)
 
         sneha → Sneha
@@ -169,10 +170,12 @@ BEST VERSION (NATURAL)
 
 -> IMPORTANT RULE
 Always learn:
+
     Markt  (wrong)
     der Markt  (correct)
 
--> GRAMMAR RULES
+-> GRAMMAR RULES:
+
         zu + dem = zum  
         zu + der = zur  
         
@@ -198,17 +201,17 @@ möchte → verb goes at end (infinitive)
 
 ## TASK
 
-Ich gehe in den __ und kaufe __.  
-Ich gehe zum __ und kaufe __.  
-Ich gehe zur __ und studiere __.  
-
-Ich __ Obst und Gemüse im __.  
-Ich trinke __ und __.  
-
-Ich möchte __ und __.  
-Ich gehe in den __ und __ Brot.  
-Ich gehe zum __ und kaufe __.  
-Ich gehe __ Universität und __ Informatik.  
+        Ich gehe in den __ und kaufe __.  
+        Ich gehe zum __ und kaufe __.  
+        Ich gehe zur __ und studiere __.  
+        
+        Ich __ Obst und Gemüse im __.  
+        Ich trinke __ und __.  
+        
+        Ich möchte __ und __.  
+        Ich gehe in den __ und __ Brot.  
+        Ich gehe zum __ und kaufe __.  
+        Ich gehe __ Universität und __ Informatik.  
 
 -> Solutions:
         Ich gehe in den Supermarkt und kaufe Brot.  
@@ -220,8 +223,8 @@ Ich gehe __ Universität und __ Informatik.
         
         Ich möchte Wasser und Obst.
 
-** FINAL FOCUS
-Speaking > Notes  
+## FINAL FOCUS
+## Speaking > Notes  
 
-Goal:
-Become confident in German for daily life and jobs **
+## Goal:
+## Become confident in German for daily life and jobs 
