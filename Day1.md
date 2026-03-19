@@ -151,3 +151,7 @@ BEST VERSION (NATURAL)
 2- Ich gehe zur Universität und studiere Informatik.(I go to the university and study computer science)
 
 
+## FINAL FOCUS
+## Speaking > Notes  
+## Goal:
+## Become confident in German for daily life and jobs 
