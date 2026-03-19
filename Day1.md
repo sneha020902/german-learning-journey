@@ -150,6 +150,78 @@ BEST VERSION (NATURAL)
 2- Ich gehe zur Universität und studiere Informatik.(I go to the university and study computer science)
 
 
+-> ARTICLES (der / die / das)
+        der → masculine
+        die → feminine
+        das → neutral
 
+    Learn nouns WITH articles:
 
+        der Markt → the market  
+        der Supermarkt → the supermarket  
+        
+        die Universität → the university  
+        die Wohnung → the apartment  
+        
+        das Wasser → the water  
+        das Brot → the bread  
+        das Obst → the fruit  
 
+-> IMPORTANT RULE
+Always learn:
+    Markt  (wrong)
+    der Markt  (correct)
+
+-> GRAMMAR RULES
+        zu + dem = zum  
+        zu + der = zur  
+        
+        Examples:
+        
+                Ich gehe zum Markt  
+                Ich gehe zum Arzt  
+                Ich gehe zur Universität  
+                Ich gehe zur Wohnung  
+-> VERB RULES: 
+ich → verb ends with -e
+
+        ich kaufe  
+        ich lerne  
+        ich arbeite  
+        ich studiere  
+        
+möchte → verb goes at end (infinitive)
+        
+        Ich möchte arbeiten  
+        Ich möchte lernen  
+        Ich möchte kaufen
+
+## TASK
+
+Ich gehe in den __ und kaufe __.  
+Ich gehe zum __ und kaufe __.  
+Ich gehe zur __ und studiere __.  
+
+Ich __ Obst und Gemüse im __.  
+Ich trinke __ und __.  
+
+Ich möchte __ und __.  
+Ich gehe in den __ und __ Brot.  
+Ich gehe zum __ und kaufe __.  
+Ich gehe __ Universität und __ Informatik.  
+
+-> Solutions:
+        Ich gehe in den Supermarkt und kaufe Brot.  
+        Ich gehe zum Markt und kaufe Obst.  
+        Ich gehe zur Universität und studiere Informatik.  
+        
+        Ich kaufe Obst und Gemüse im Supermarkt.  
+        Ich trinke Wasser und Kaffee.  
+        
+        Ich möchte Wasser und Obst.
+
+** FINAL FOCUS
+Speaking > Notes  
+
+Goal:
+Become confident in German for daily life and jobs **
