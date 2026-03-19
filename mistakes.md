@@ -16,8 +16,7 @@ Ich lerne Deutsch und ich schaue YouTube.(I am learning German and I watch Youtu
 Q) Was machst du in deiner Freizeit?
 (What do you do in your free time?)
 
-  Ans) Ich gehe zu markt
-  Correction: Ich gehe zum Markt
+      Ans) Ich gehe zu markt
+      Correction: Ich gehe zum Markt
 
-Rule:
-  zu + dem = zum
+Rule: zu + dem = zum
