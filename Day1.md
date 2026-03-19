@@ -1,5 +1,6 @@
 # German_notes
 All my notes for German, I will make this as my notebook to learn German might be helpful for someone else.
+Check the bold text for tasks and questions with expected answer (which was my answer) and the corrected version.
 
 ## DAY 1 — GERMAN
 
@@ -53,7 +54,7 @@ Speak basic sentences
     Ich studiere Informatik.
     Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.
 
--> TASK
+## -> TASK
 
 Write this (fill your info):
 
@@ -63,7 +64,7 @@ Write this (fill your info):
     Ich studiere / arbeite __
     Ich lerne Deutsch, weil __ 
 
--> DAILY PRACTICE (10 min)
+## -> DAILY PRACTICE (10 min)
 
     Read your intro 3 times
     Speak out loud
@@ -89,4 +90,64 @@ Write this (fill your info):
     Ich studiere Informatik
     If you work:
     Ich arbeite als …
+
+# Mistakes
+
+Use:
+
+    Ich spiele …
+    (I play)
+    Ich lerne …
+    (I learn)
+    Ich gehe …
+    (I go)
+
+Example:
+
+Ich lerne Deutsch und ich schaue YouTube.(I am learning German and I watch Youtube.)
+
+## Q) Was machst du in deiner Freizeit?
+(What do you do in your free time?)
+
+      Ans) Ich gehe zu markt
+      Correction: Ich gehe zum Markt
+
+Rule: zu + dem = zum
+
+## Also complete task:
+
+Ich gehe zum Markt und …
+Ich gehe zur ___ und … 
+
+Ich gehe zum Markt und spiele (Correct version:Ich gehe zum Markt und spiele dort.)
+Ich gehe zur University und studiere(Correct version: Ich gehe zur Universität und studiere. )
+
+WHAT TO FIX:
+
+1. “spiele” → incomplete
+
+“spiele” = I play (but WHAT?)
+
+        Better:
+        Ich spiele Fußball
+        Ich spiele dort (there)
+
+2. “University”
+
+        In German:
+        Universität (very important word)
+
+3. “und studiere” (good)
+
+        But better:
+         Ich studiere Informatik
+
+BEST VERSION (NATURAL)
+
+Ich gehe zum Markt und kaufe Obst.(I go to the market and buy fruit)
+Ich gehe zur Universität und studiere Informatik.(I go to the university and study computer science)
+
+
+
+
 
