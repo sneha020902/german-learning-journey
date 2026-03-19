@@ -1,6 +1,7 @@
 ## Day 2
 
 -> ARTICLES (der / die / das)
+
         1- der → masculine
            der Markt → the market  
            der Supermarkt → the supermarket  
