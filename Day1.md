@@ -145,8 +145,9 @@ WHAT TO FIX:
 
 BEST VERSION (NATURAL)
 
-Ich gehe zum Markt und kaufe Obst.(I go to the market and buy fruit)
-Ich gehe zur Universität und studiere Informatik.(I go to the university and study computer science)
+1- Ich gehe zum Markt und kaufe Obst.(I go to the market and buy fruit)
+
+2- Ich gehe zur Universität und studiere Informatik.(I go to the university and study computer science)
 
 
 
