@@ -73,11 +73,11 @@ Write this (fill your info):
 -> SMALL CORRECTIONS (IMPORTANT)
 1. Capital letters (VERY IMPORTANT in German)
 
-    sneha → Sneha
-    deutschland → Deutschland 
-    All nouns are capital: 
-    Deutschland
-    Informatik
+        sneha → Sneha
+        deutschland → Deutschland 
+        All nouns are capital: 
+        Deutschland
+        Informatik
 
 2. “Computer Science” in German
 
