@@ -201,27 +201,22 @@ möchte → verb goes at end (infinitive)
 
 ## TASK
 
-        Ich gehe in den __ und kaufe __.  
-        Ich gehe zum __ und kaufe __.  
-        Ich gehe zur __ und studiere __.  
-        
-        Ich __ Obst und Gemüse im __.  
-        Ich trinke __ und __.  
-        
-        Ich möchte __ und __.  
-        Ich gehe in den __ und __ Brot.  
-        Ich gehe zum __ und kaufe __.  
-        Ich gehe __ Universität und __ Informatik.  
+        1- Ich gehe in den __ und kaufe __.  
+        2- Ich gehe zum __ und kaufe __.  
+        3- Ich gehe zur __ und studiere __.          
+        4- Ich __ Obst und Gemüse im __.  
+        5- Ich trinke __ und __.          
+        6- Ich möchte __ und __.  
+
 
 -> Solutions:
-        Ich gehe in den Supermarkt und kaufe Brot.  
-        Ich gehe zum Markt und kaufe Obst.  
-        Ich gehe zur Universität und studiere Informatik.  
-        
-        Ich kaufe Obst und Gemüse im Supermarkt.  
-        Ich trinke Wasser und Kaffee.  
-        
-        Ich möchte Wasser und Obst.
+
+        1- Ich gehe in den Supermarkt und kaufe Brot.  
+        2- Ich gehe zum Markt und kaufe Obst.  
+        3- Ich gehe zur Universität und studiere Informatik.         
+        4- Ich kaufe Obst und Gemüse im Supermarkt.  
+        5- Ich trinke Wasser und Kaffee.         
+        6- Ich möchte Wasser und Obst.
 
 ## FINAL FOCUS
 ## Speaking > Notes  
