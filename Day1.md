@@ -116,11 +116,12 @@ Rule: zu + dem = zum
 
 ## Also complete task:
 
-Ich gehe zum Markt und …
-Ich gehe zur ___ und … 
+1- Ich gehe zum Markt und …
+        
+        Ich gehe zum Markt und spiele (Correct version:Ich gehe zum Markt und spiele dort.)
 
-Ich gehe zum Markt und spiele (Correct version:Ich gehe zum Markt und spiele dort.)
-Ich gehe zur University und studiere(Correct version: Ich gehe zur Universität und studiere. )
+2- Ich gehe zur ___ und … 
+        Ich gehe zur University und studiere(Correct version: Ich gehe zur Universität und studiere. )
 
 WHAT TO FIX:
 
