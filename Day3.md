@@ -145,6 +145,7 @@ Write:
 	In meiner Freizeit, ich ___ und ich ___.
 
 Example:
+
 	Ich heiße Sneha.
 	Ich komme aus Indien.
 	Ich wohne in Weimar.
