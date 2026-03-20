@@ -94,20 +94,33 @@ Answers:
 	Was machst du in deiner Freizeit?
 
   SMALL CHALLENGE
+  
   Try to write without looking at notes
+  
 Answers:
+
   1.
+
   Ich möchte Wasser und Brot.
+  
   Nein, danke.
+  
   Mit Karte bitte.
+  
   2.
+  
   Ich studiere Informatik 
+  
   Ich wohne in Weimar 
+  
   Ich lerne Deutsch / Ich koche gern
 
   lernen → to learn (ich lerne)
+  
   gern → gladly / like to
+  
   Ich koche gern = I like cooking
+
   
   WHAT YOU’RE BUILDING?
   Real conversation ability
