@@ -1,14 +1,12 @@
 ## Goal
 
 	Handle basic conversations
-
 	Speak in supermarket / daily life
-
 	Answer simple questions
 
 CORE QUESTIONS:
 
-	Was mochten Sie? (What would you like?)
+	Was möchten Sie? (What would you like?)
 	Noch etwas?(Anything else?)
 	Wo wohnst du?(Where do you live?)
 	Was machst du?(What do you do)
@@ -16,8 +14,8 @@ CORE QUESTIONS:
 SUPERMARKET CONVERSATIONS:
 
 	Dialogue-
-	Cashier: Was mochten Sie?
-	Me: Ich mochte Wasser und Brot.
+	Cashier: Was möchten Sie?
+	Me: Ich möchte Wasser und Brot.
 	Cashier: Noch etwas?
 	Me: Nein, danke.
 	Cashier: Das macht 5 Euro?(That will be 5 Euros)
@@ -25,7 +23,7 @@ SUPERMARKET CONVERSATIONS:
 
 USEFUL PHRASES:
 
-	Ich mochte __ und __
+	Ich möchte __ und __
 	Noch etwas?
 	Nein, danke
 	Mit karte bitte
@@ -33,11 +31,11 @@ USEFUL PHRASES:
 
 IMPORTANT SENTENCE PATTERN:
 
-	Ich mochte + item
+	Ich möchte + item
 
-	Ich mochte Wasser
-	Ich mochte Brot
-	Ich mochte Kaffee
+	Ich möchte Wasser
+	Ich möchte Brot
+	Ich möchte Kaffee
 ## TASK
 
 Daily life questions
@@ -86,9 +84,21 @@ Answers:
 
   SMALL CHALLENGE
   Try to write without looking at notes
+Answers:
+  1.
+  Ich möchte Wasser und Brot.
+  Nein, danke.
+  Mit Karte bitte.
+  2.
+  Ich studiere Informatik 
+  Ich wohne in Weimar 
+  Ich lerne Deutsch / Ich koche gern
 
-  WHAT YOU’RE BUILDING
-
+  lernen → to learn (ich lerne)
+  gern → gladly / like to
+  Ich koche gern = I like cooking
+  
+  WHAT YOU’RE BUILDING?
   Real conversation ability
   Confidence in Germany
   Fast thinking in German
