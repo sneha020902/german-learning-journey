@@ -121,6 +121,37 @@ Answers:
   
   Ich koche gern = I like cooking
 
+-> IMPORTANT MOMENT (READ THIS)
+
+Step 1: Try
+
+Step 2: Forget
+
+Step 3: Check
+
+Step 4: Repeat
+
+This is how memory builds.
+
+-> SMALL SPEAKING PUSH
+
+Now combine everything into a mini intro:
+
+Write:
+
+	Ich heiße ___.
+	Ich wohne in ___.
+	Ich studiere ___.
+	In meiner Freizeit, ich ___ und ich ___.
+
+Example:
+	Ich heiße Sneha.
+	Ich komme aus Indien.
+	Ich wohne in Weimar.
+	Ich studiere Informatik.
+	In meiner Freizeit, ich lerne Deutsch und ich koche gern.
+	Ich lerne Deutsch, weil ich in Deutschland arbeiten und leben möchte.(I learn Deutsch because I want to work and live in germany)
+	Ich arbeite als Studentin.
   
 ##  WHAT YOU’RE BUILDING?
 
