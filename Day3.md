@@ -122,7 +122,10 @@ Answers:
   Ich koche gern = I like cooking
 
   
-  WHAT YOU’RE BUILDING?
+##  WHAT YOU’RE BUILDING?
+
   Real conversation ability
+  
   Confidence in Germany
+  
   Fast thinking in German
