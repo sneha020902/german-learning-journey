@@ -41,20 +41,31 @@ IMPORTANT SENTENCE PATTERN:
 Daily life questions
 
 Ques 1) Was machst du?
+
 Ques 2) Wo wohnst du?
+
 Ques 3) Was machst du in deiner Freizeit?
 
 Answers:
 
 1- Ich learne Deutsch.
+
    Ich studiere Informatik.
+   
    Ich arbeite als student.
+
 2- Ich wohne in Weimar.
+
    Ich wohne in Frankfurt.
+   
    Ich wohne in Berlin.
+   
 3- Ich learne Deutsh.
+
    Ich koche(I cook).
+   
    Ich gehe zum Market.
+   
    Ich schaue(watch) YouTube.
 
 -> MINI GRAMMER
